@@ -7,9 +7,6 @@ My goal is to improve my knowledge of Javascript and CSS, and to start working w
 I have online courses from EscuelaDevRock and Udemy, but I am also interested in working through Free Code Camp’s Front End Certification Projects.
 I read some articles that motivated me a lot to start this challenge, I copy the links below.
 
-<!--**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to
-figure out some basic functionality.-->
-
 **Links I read:**
 [The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2020 - Quincy Larson](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/)
 [Let's do this! - Emmanuel Raymond](https://codeburst.io/100daysofcode-lets-do-this-ac6649045bdc)
@@ -24,3 +21,15 @@ I am missing some details to finish this calculator, tomorrow I will make it wor
 
 **Link to work:**
 [Calculator CSS](https://codepen.io/gustofa/pen/jOWrgJN)
+
+### Day 2: Before June 17, 2020
+
+**Today's Progress**: I made some changes to the design of the calculator and focused on making it work with Javascript. I started alone and then used an article from freeCodeCamp. It helped me a lot to brush up on Vanilla Javascript and learn some new things.
+
+**Thoughts:** It took longer than I thought because I had to do it with one hand, I burned the fingers of my left hand a bit today while cooking. Nothing serious, I hope tomorrow to be better and to be able to type with both hands.
+
+**Links I read:**
+[How to build an HTML calculator app from scratch using JavaScript - Zell Liew](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
+
+**Link to work:**
+[Calculator CSS + Javascript](https://codepen.io/gustofa/pen/jOWrgJN)
