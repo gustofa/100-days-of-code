@@ -46,3 +46,9 @@ I particularly recommend the compilation of articles and videos made by Leonardo
 
 **Link to work:**
 [Calculator CSS + Javascript](https://codepen.io/gustofa/pen/jOWrgJN)
+
+### Day 4: June 19, 2020
+
+**Today's Progress**: It was a hard day, a lot of work and little time to dedicate to the challenge. I couldn't start a new project, but I made a lot of progress with the FreeCodeCamp Responsive Web Design Certification.
+
+**Thoughts:** I begin to notice the difficulty of maintaining the routine of spending several hours every day making code, and learning new things.
