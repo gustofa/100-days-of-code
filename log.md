@@ -52,3 +52,20 @@ I particularly recommend the compilation of articles and videos made by Leonardo
 **Today's Progress**: It was a hard day, a lot of work and little time to dedicate to the challenge. I couldn't start a new project, but I made a lot of progress with the FreeCodeCamp Responsive Web Design Certification.
 
 **Thoughts:** I begin to notice the difficulty of maintaining the routine of spending several hours every day making code, and learning new things.
+
+### Day 5: June 20, 2020
+
+**Today's Progress**: I finished the section on Grid CSS from the FreeCodeCamp Responsive Web Design Certification and decided to do something fun with that.
+I started a Nyan Cat made only with Grid CSS! In the next few days I will make some additions.
+
+**Thoughts:**: First I thought about making it lively, when I started I realized it was going to be quite a job just drawing it. I will do the animation in the next days.
+
+**Link to work:**
+[Nyan Cat in CSS Grid](https://codepen.io/gustofa/pen/YzwNmvq)
+
+### Day 6: June 21, 2020
+
+**Today's Progress**: I completed the drawing of Nyan Cat using Grid CSS as if they were pixels. I applied a lot of what I learned in the FreeCodeCamp lessons. I used grid-area to minimize the amount of div used, as well as overlapping divs.
+
+**Link to work:**
+[Nyan Cat in CSS Grid](https://codepen.io/gustofa/pen/YzwNmvq)
