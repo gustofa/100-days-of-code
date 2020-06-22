@@ -69,3 +69,13 @@ I started a Nyan Cat made only with Grid CSS! In the next few days I will make s
 
 **Link to work:**
 [Nyan Cat in CSS Grid](https://codepen.io/gustofa/pen/YzwNmvq)
+
+### Day 7: June 22, 2020
+
+**Today's Progress**: I had to spend a few hours working on friends' website. The site is in Wordpress and I had to do several things in PHP. It helped me to face very different problems than I usually do.
+
+**Thoughts:**: PHP is not a language that I use very often, it was a nice challenge to do it and also fight with the Wordpress structure.
+Not everything in life is Javascript, a large percentage of the world's websites are made in Wordpress.
+
+**Link to work:**
+[Friend's blog](https://danielaypablotravel.com/)
