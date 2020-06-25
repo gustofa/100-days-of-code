@@ -79,3 +79,18 @@ Not everything in life is Javascript, a large percentage of the world's websites
 
 **Link to work:**
 [Friend's blog](https://danielaypablotravel.com/)
+
+### Day 8: June 24, 2020
+
+**Today's Progress**: I added animation with CSS to make the cat move. I know this was not the best way to apply Grid, but I found it fun and a way to do something different with that resource.
+
+**Link to work:**
+[Nyan Cat in CSS Grid](https://codepen.io/gustofa/pen/YzwNmvq)
+
+### Day 9: June 25, 2020
+
+**Today's Progress**: I am immersed in doing the projects to finish the Responsive Web Desing Certification.
+Furthermore, I am still learning about the basic concepts of Javascript to fix theoretical knowledge that I used but had never analyzed in depth.
+It remains to complete the style, tomorrow I will finish it, today it is too late.
+
+[FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
