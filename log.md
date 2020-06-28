@@ -94,3 +94,9 @@ Furthermore, I am still learning about the basic concepts of Javascript to fix t
 It remains to complete the style, tomorrow I will finish it, today it is too late.
 
 [FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
+
+### Day 10: June 26, 2020
+
+**Today's Progress**: I set about testing CSS properties in the tribute page project. I made several changes, I like the final state. It doesn't have dazzling CSS, it's simple but nice. I like it.
+
+[FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
