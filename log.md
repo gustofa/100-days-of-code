@@ -107,3 +107,9 @@ It remains to complete the style, tomorrow I will finish it, today it is too lat
 I have lived as a digital nomad for more than a year, touring Asia, changing cities every few weeks or months. So I used this topic for my survey.
 
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
+
+### Day 12: June 28, 2020
+
+**Today's Progress**: I didn't have much time with the laptop today, so I made little progress with the survey form. But I saw several videos on Youtube about Javascript and CSS.
+
+[FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
