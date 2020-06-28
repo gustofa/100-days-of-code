@@ -100,3 +100,10 @@ It remains to complete the style, tomorrow I will finish it, today it is too lat
 **Today's Progress**: I set about testing CSS properties in the tribute page project. I made several changes, I like the final state. It doesn't have dazzling CSS, it's simple but nice. I like it.
 
 [FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
+
+### Day 11: June 27, 2020
+
+**Today's Progress**: I started with the survey form project.
+I have lived as a digital nomad for more than a year, touring Asia, changing cities every few weeks or months. So I used this topic for my survey.
+
+[FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
