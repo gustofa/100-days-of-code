@@ -113,3 +113,10 @@ I have lived as a digital nomad for more than a year, touring Asia, changing cit
 **Today's Progress**: I didn't have much time with the laptop today, so I made little progress with the survey form. But I saw several videos on Youtube about Javascript and CSS.
 
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
+
+### Day 13: June 29, 2020
+
+**Today's Progress**: Problems with my laptop are making it harder for me to stay active programming.
+I'm reading a lot about Javascript and CSS, I hope to get back to my computer soon.
+
+[FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
