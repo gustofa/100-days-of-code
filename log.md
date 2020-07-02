@@ -128,3 +128,11 @@ I'm reading a lot about Javascript and CSS, I hope to get back to my computer so
 **Thoughts:**: I ran into difficulties getting everything to look like I had it in my mind.
 
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
+
+### Day 15: July 1, 2020
+
+**Today's Progress**: Finished the survey.
+
+**Thoughts:**: I had trouble making divs appear depending on checkboxes.
+
+[FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
