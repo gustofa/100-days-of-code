@@ -120,3 +120,11 @@ I have lived as a digital nomad for more than a year, touring Asia, changing cit
 I'm reading a lot about Javascript and CSS, I hope to get back to my computer soon.
 
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
+
+### Day 14: June 30, 2020
+
+**Today's Progress**: I made some progress on the survey form project.
+
+**Thoughts:**: I ran into difficulties getting everything to look like I had it in my mind.
+
+[FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
