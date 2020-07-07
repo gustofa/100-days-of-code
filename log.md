@@ -133,6 +133,30 @@ I'm reading a lot about Javascript and CSS, I hope to get back to my computer so
 
 **Today's Progress**: Finished the survey.
 
-**Thoughts:**: I had trouble making divs appear depending on checkboxes.
-
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
+
+### Day 16: July 2, 2020
+
+**Today's Progress**: I switched to JavaScript Algorithms and Data Structures Certification and slowly begin to solve the units. I am not with much time but I do not want to leave the challenge.
+
+### Day 17: July 3, 2020
+
+**Today's Progress**: Continuing with JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 18: July 4, 2020
+
+**Today's Progress**: Continuing with JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 19: July 5, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 20: July 6, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 21: July 7, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+**Thoughts:**: The pandemic is affecting my plans and I had to deal with an emergency move. The last days were very difficult, I changed cities and it will take me a few days to get settled.
