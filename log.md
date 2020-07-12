@@ -160,3 +160,20 @@ I'm reading a lot about Javascript and CSS, I hope to get back to my computer so
 **Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
 
 **Thoughts:**: The pandemic is affecting my plans and I had to deal with an emergency move. The last days were very difficult, I changed cities and it will take me a few days to get settled.
+
+### Day 22: July 9, 2020
+
+**Today's Progress**: After a day off, I go back to the code.
+I will spend the next few days studying some Javascript concepts, and then do the JavaScript Algorithms and Data Structures projects in FreeCodeCamp.
+
+### Day 23: July 10, 2020
+
+**Today's Progress**: Continuing with JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 24: July 11, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 25: July 12, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
