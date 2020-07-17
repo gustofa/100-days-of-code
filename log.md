@@ -164,7 +164,7 @@ I'm reading a lot about Javascript and CSS, I hope to get back to my computer so
 ### Day 22: July 9, 2020
 
 **Today's Progress**: After a day off, I go back to the code.
-I will spend the next few days studying some Javascript concepts, and then do the JavaScript Algorithms and Data Structures projects in FreeCodeCamp.
+I will spend the next few days studying some Javascript concepts, and then do the JavaScript Algorithms and Data Structures projects in FreeCodeCamp.25
 
 ### Day 23: July 10, 2020
 
@@ -177,3 +177,25 @@ I will spend the next few days studying some Javascript concepts, and then do th
 ### Day 25: July 12, 2020
 
 **Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 26: July 13, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 27: July 14, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 28: July 15, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 29: July 16, 2020
+
+**Today's Progress**: JavaScript Algorithms and Data Structures Certification in FreeCodeCamp
+
+### Day 30: July 17, 2020
+
+**Today's Progress**: I took a break from everything in Javascript and took the day to work on the web of some friends. I had to work with HTML + CSS and some PHP, since the web is in Wordpress.
+
+[Friends´s Wordpress Web](https://danielaypablotravel.com/)
