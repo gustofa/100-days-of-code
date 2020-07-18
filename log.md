@@ -93,12 +93,14 @@ Not everything in life is Javascript, a large percentage of the world's websites
 Furthermore, I am still learning about the basic concepts of Javascript to fix theoretical knowledge that I used but had never analyzed in depth.
 It remains to complete the style, tomorrow I will finish it, today it is too late.
 
+**Link to work:**
 [FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
 
 ### Day 10: June 26, 2020
 
 **Today's Progress**: I set about testing CSS properties in the tribute page project. I made several changes, I like the final state. It doesn't have dazzling CSS, it's simple but nice. I like it.
 
+**Link to work:**
 [FCC: Tribute Page Project](https://codepen.io/gustofa/pen/abdwqOX)
 
 ### Day 11: June 27, 2020
@@ -106,12 +108,14 @@ It remains to complete the style, tomorrow I will finish it, today it is too lat
 **Today's Progress**: I started with the survey form project.
 I have lived as a digital nomad for more than a year, touring Asia, changing cities every few weeks or months. So I used this topic for my survey.
 
+**Link to work:**
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
 
 ### Day 12: June 28, 2020
 
 **Today's Progress**: I didn't have much time with the laptop today, so I made little progress with the survey form. But I saw several videos on Youtube about Javascript and CSS.
 
+**Link to work:**
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
 
 ### Day 13: June 29, 2020
@@ -119,6 +123,7 @@ I have lived as a digital nomad for more than a year, touring Asia, changing cit
 **Today's Progress**: Problems with my laptop are making it harder for me to stay active programming.
 I'm reading a lot about Javascript and CSS, I hope to get back to my computer soon.
 
+**Link to work:**
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
 
 ### Day 14: June 30, 2020
@@ -127,12 +132,14 @@ I'm reading a lot about Javascript and CSS, I hope to get back to my computer so
 
 **Thoughts:**: I ran into difficulties getting everything to look like I had it in my mind.
 
+**Link to work:**
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
 
 ### Day 15: July 1, 2020
 
 **Today's Progress**: Finished the survey.
 
+**Link to work:**
 [FCC: Survey Form Project](https://codepen.io/gustofa/pen/oNbeRor)
 
 ### Day 16: July 2, 2020
@@ -198,4 +205,30 @@ I will spend the next few days studying some Javascript concepts, and then do th
 
 **Today's Progress**: I took a break from everything in Javascript and took the day to work on the web of some friends. I had to work with HTML + CSS and some PHP, since the web is in Wordpress.
 
+**Link to work:**
 [Friends´s Wordpress Web](https://danielaypablotravel.com/)
+
+### Day 31: July 18, 2020
+
+**Today's Progress**: Reading and testing how Promise works in Javascript.
+I promise...
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+to learn it and use it in future projects.
+Yes, I know, it's not funny.
+
+**Links I read:**
+[JavaScript Promises for Dummies - Jecelyn Yeen](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
+[Javascript Promise 101 - Igor Irianto](https://dev.to/iggredible/javascript-promise-101-3idl)
+
+[Javascript Promises: An In-Depth Approach - Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
