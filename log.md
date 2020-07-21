@@ -232,3 +232,15 @@ Yes, I know, it's not funny.
 [Javascript Promise 101 - Igor Irianto](https://dev.to/iggredible/javascript-promise-101-3idl)
 
 [Javascript Promises: An In-Depth Approach - Rajesh Babu](https://codeburst.io/playing-with-javascript-promises-a-comprehensive-approach-25ab752c78c3)
+
+### Day 32: July 19, 2020
+
+**Today's Progress**: Working with regular expression in FreeCodeCamp
+
+### Day 33: July 20, 2020
+
+**Today's Progress**: Working with regular expression in FreeCodeCamp
+
+### Day 34: July 21, 2020
+
+**Today's Progress**: Finalize the regular expression chapter in FreeCodeCamp.
