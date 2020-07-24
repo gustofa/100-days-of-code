@@ -244,3 +244,15 @@ Yes, I know, it's not funny.
 ### Day 34: July 21, 2020
 
 **Today's Progress**: Finalize the regular expression chapter in FreeCodeCamp.
+
+### Day 35: July 22, 2020
+
+**Today's Progress**: I exercised what I learned about regular expressions.
+
+### Day 36: July 23, 2020
+
+**Today's Progress**: Finalize the debugging's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 37: July 24, 2020
+
+**Today's Progress**: The chapter on basic data structures is almost complete. I learned some things that I didn't know about using arrays.
