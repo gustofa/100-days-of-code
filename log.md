@@ -256,3 +256,24 @@ Yes, I know, it's not funny.
 ### Day 37: July 24, 2020
 
 **Today's Progress**: The chapter on basic data structures is almost complete. I learned some things that I didn't know about using arrays.
+
+### Day 38: July 25, 2020
+
+**Today's Progress**: Working with Basic Algorithm Scripting's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 39: July 26, 2020
+
+**Today's Progress**: I continue to exercise Javascript scripting. Algorithms and array
+
+### Day 40: July 27, 2020
+
+**Today's Progress**: I read a lot about algorithms and data structures.
+
+**Links I read:**
+[Algorithms in JavaScript. 40 Problems, Solutions, and Explanations - Thon Ly](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+
+[Data Structures in JavaScript - Thon Ly](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+
+### Day 41: July 28, 2020
+
+**Today's Progress**: Finalize the Basic Algorithm Scripting's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
