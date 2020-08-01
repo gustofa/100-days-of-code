@@ -277,3 +277,23 @@ Yes, I know, it's not funny.
 ### Day 41: July 28, 2020
 
 **Today's Progress**: Finalize the Basic Algorithm Scripting's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 42: July 29, 2020
+
+**Today's Progress**: Object Oriented Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 43: July 30, 2020
+
+**Today's Progress**: Object Oriented Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+**Links I read:**
+[Prototype in JavaScript: it’s quirky, but here’s how it works - Pranav Jindal](https://www.freecodecamp.org/news/prototype-in-js-busted-5547ec68872/)
+
+### Day 44: July 31, 2020
+
+**Today's Progress**: Object Oriented Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+[Understanding Prototypes and Inheritance in JavaScript - Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+
+### Day 45: August 1, 2020
+
+**Today's Progress**: Learning a lot about objects, Constructor and Prototypes in Javascript. These are concepts that I knew, but the Javascript approach is much simpler than that of Java. It helped me a lot to review all this...
