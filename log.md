@@ -292,8 +292,39 @@ Yes, I know, it's not funny.
 ### Day 44: July 31, 2020
 
 **Today's Progress**: Object Oriented Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+**Links I read:**
 [Understanding Prototypes and Inheritance in JavaScript - Tania Rascia](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
 
 ### Day 45: August 1, 2020
 
 **Today's Progress**: Learning a lot about objects, Constructor and Prototypes in Javascript. These are concepts that I knew, but the Javascript approach is much simpler than that of Java. It helped me a lot to review all this...
+
+### Day 46: August 2, 2020
+
+**Today's Progress**: Functional Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 47: August 3, 2020
+
+**Today's Progress**: Functional Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 48: August 4, 2020
+
+**Today's Progress**: Functional Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+### Day 49: August 5, 2020
+
+**Today's Progress**: I had to leave Javascript for a moment and spend more hours on Wordpress. Some projects that I have in charge and that needed to attend to urgent problems. I was able to do a lot of exercise with CSS, media queries, and even migrate a site.
+
+### Day 50: August 6, 2020
+
+**Today's Progress**: Keep with Functional Programming's chapter in JavaScript Algorithms and Data Structures Certification in FreeCodeCamp.
+
+**Links I read:**
+[Javascript and Functional Programming — Pt. 3: Pure Functions - Omer Goldberg](https://hackernoon.com/javascript-and-functional-programming-pt-3-pure-functions-d572bb52e21c)
+
+[The State of Immutability - Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
+
+### Day 51: August 7, 2020
+
+**Today's Progress**: It was a tough week for me, but I was able to move forward with functional programming in Javascript. I knew the subject because a few years ago I studied Haskell a little, but with Javascript everything is better!
